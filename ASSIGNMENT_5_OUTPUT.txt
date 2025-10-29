@@ -1,0 +1,16 @@
+Enter total no. of stages: 3
+Enter no. of node in each stage (3 values): 1 2 1
+Enter no. of edges: 4
+Enter each edge as: u v cost
+0 1 4
+0 2 2
+1 3 7
+2 3 3
+Best costs from Stage-0 nodes:
+Node 0: cost = 5
+Enter a source node id: 0
+Path from 0 : 0 -> 2 -> 3
+Total route cost : 5
+Enter number of live updates to edge costs (0 to finish): 0
+After update best cost from 0th node:
+Node 0: cost = 5S

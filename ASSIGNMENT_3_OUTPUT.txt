@@ -1,0 +1,25 @@
+Enter max boat capacity in kg: 270
+Enter no. of relief items: 3
+
+Enter details for items 1:
+Weight (kg): 40
+Utility value: 80
+Divisible? (1 for yes, 0 for no): 1
+
+Enter details for items 2:
+Weight (kg): 50
+Utility value: 100
+Divisible? (1 for yes, 0 for no): 0
+
+Enter details for items 3:
+Weight (kg): 120
+Utility value: 60
+Divisible? (1 for yes, 0 for no): 0
+
+Items sorted by utility/weight ratio (descending):
+Weight    Utility   Divisible      Utility/Weight 
+40.00     80.00     Yes            2.00           
+50.00     100.00    No             2.00           
+120.00    60.00     No             0.50           
+
+Maximum utility value the boat can carry: 240.00

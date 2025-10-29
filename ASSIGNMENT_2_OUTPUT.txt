@@ -1,0 +1,32 @@
+Enter total number of movies: 3
+
+Movie 1 details:
+Title: movie 1
+IMDB Rating: 7
+Release Year: 2025
+Watch Time (in hours): 3
+
+Movie 2 details:
+Title: movie 2
+IMDB Rating: 6
+Release Year: 2023
+Watch Time (in hours): 2
+
+Movie 3 details:
+Title: movie 3
+IMDB Rating: 9
+Release Year: 2024
+Watch Time (in hours): 2.8
+
+choose by which parameter to sort:
+1 - IMDB Rating
+2 - Release Year
+3 - Watch Time
+Your choice: 1
+sorted movies
+movie 3         | Rating: 9 | Year: 2024 | Watch Time: 2 hrs
+movie 2         | Rating: 6 | Year: 2023 | Watch Time: 2 hrs
+movie 1         | Rating: 7 | Year: 2025 | Watch Time: 3 hrs
+
+Movies sorted successfully using QuickSort!
+Time Complexity: O(n log n) on average.
